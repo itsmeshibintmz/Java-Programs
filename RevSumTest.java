@@ -1,3 +1,4 @@
+//Java program to accept a number and then to find the reverse of the number and sum of its digits.
 public class RevSumTest {
     public static void main(String[] args) {
         int number = Integer.parseInt(args[0]);
