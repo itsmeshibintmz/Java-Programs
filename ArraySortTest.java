@@ -1,3 +1,4 @@
+//Java program to read an array of n elements and then to sort it.
 import java.util.Scanner;
 
 public class ArraySortTest {
