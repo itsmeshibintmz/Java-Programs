@@ -1,3 +1,4 @@
+//Java menu driven program to check weather a number is prime or not, palindrome or not, and Armstrong or not
 import java.util.Scanner;
 
 public class PrimePaliAmstr {
