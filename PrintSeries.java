@@ -1,3 +1,10 @@
+//Java program to print the series
+//P
+//Pr
+//Pro
+//Prog
+//Progr…
+
 public class PrintSeries {
     public static void main(String[] args) {
         char word[] = new char[]{'P','r','o','g','r','a','m'};
