@@ -1,3 +1,4 @@
+//Java Program to implement matrix addition.
 import java.util.Scanner;
 class AddMatrix{
     public static void main(String args[]) {
