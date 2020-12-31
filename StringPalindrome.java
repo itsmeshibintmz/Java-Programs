@@ -1,3 +1,4 @@
+//Java program to read n strings then to sort them and display the palindromes among them.
 import java.util.Scanner;
 
 public class StringPalindrome {
